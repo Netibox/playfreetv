@@ -1,12 +1,87 @@
 [
+ 
+    {
+    "name": "CH3 HD",
+    "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+    "category": "digital",
+
+  },
+      {
+    "name": "CH3 HD สำรอง",
+    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+    "category": "digital",
+    "keyId": "9d76aea451d441a4913d4d70c4e586ab",
+    "key": "051027a6ff54494b949ba792928e9008"
+  },
+  
   {
     "name": "CH5 HD",
+    "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp",
+    "category": "digital",
+
+  },
+    {
+    "name": "CH5 HD สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp",
     "category": "digital",
     "keyId": "87db4361f7894655a4656e9c8b935a02",
     "key": "b025a4b950df41158a87cfc8d6f2ac34"
   },
+    {
+    "name": "CH7 HD",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
+    "category": "digital",
+
+  },
+
+      {
+    "name": "CH7 HD สำรอง",
+    "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
+    "category": "digital",
+    "keyId": "4d4426a505f64382a9841155d721cee6",
+    "key": "0f4770219ccb4be5836a7517057e51c3"
+  },
+  
+    {
+    "name": "Thairath TV",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
+    "logo": "https://img1.pic.in.th/images/1000040856.jpg",
+    "category": "digital",
+
+  },
+      {
+    "name": "Thairath TV สำรอง",
+    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
+    "logo": "https://img1.pic.in.th/images/1000040856.jpg",
+    "category": "digital",
+    "keyId": "4b2bff3e598043cfaf949305e3d153fa",
+    "key": "545df84ff4c54af6b5385516e0f65956"
+  },
+  
+  {
+    "name": "AmarinTV HD",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp",
+    "category": "digital",
+
+  },
+
+    {
+    "name": "AmarinTV HD สำรอง",
+    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp",
+    "category": "digital",
+    "keyId": "0b898bb9530b4b0a97e444d1e1f8960e",
+    "key": "dab1a7c035d94287ac64417ef809ed3b"
+  },
+
+
   {
     "name": "NBT HD",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd",
@@ -109,38 +184,8 @@
     "keyId": "6529c8cd99db4489bd237f616f37124b",
     "key": "b9d299ba9ea94fd2ac4a77e8966dd91e"
   },
-  {
-    "name": "Thairath TV",
-    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
-    "logo": "https://img1.pic.in.th/images/1000040856.jpg",
-    "category": "digital",
-    "keyId": "4b2bff3e598043cfaf949305e3d153fa",
-    "key": "545df84ff4c54af6b5385516e0f65956"
-  },
-  {
-    "name": "CH3 HD",
-    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
-    "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-    "category": "digital",
-    "keyId": "9d76aea451d441a4913d4d70c4e586ab",
-    "key": "051027a6ff54494b949ba792928e9008"
-  },
-  {
-    "name": "AmarinTV HD",
-    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
-    "logo": "https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp",
-    "category": "digital",
-    "keyId": "0b898bb9530b4b0a97e444d1e1f8960e",
-    "key": "dab1a7c035d94287ac64417ef809ed3b"
-  },
-  {
-    "name": "CH7 HD",
-    "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
-    "logo": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
-    "category": "digital",
-    "keyId": "4d4426a505f64382a9841155d721cee6",
-    "key": "0f4770219ccb4be5836a7517057e51c3"
-  },
+
+
   {
     "name": "PPTV HD",
     "url": "https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeMjhhZGU2MTU3Y2Q3MjU4MzhlYwM2VkZTdjYjFkYzkxYzlm",
