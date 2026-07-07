@@ -34,7 +34,7 @@
             --text-primary: #ffffff;
             --text-secondary: #8a96a3;
             --hypertv-green: #eb2643;                      /* สีเขียวหลักของทั้งเว็บ */
-            --hypertv-glow: rgb(222, 0, 0));    /* สีเรืองแสง/เงาของกรอบ */
+            --hypertv-glow: rgb(222, 0, 0);    /* สีเรืองแสง/เงาของกรอบ */
             --mode-color: var(--hypertv-green);
             --mode-glow: var(--hypertv-glow);
             --header-height: 60px;
@@ -1187,7 +1187,7 @@
                         <circle cx="50" cy="50" r="42" fill="none" stroke="white" stroke-width="2.5" opacity="0.3"></circle>
                         <circle cx="50" cy="50" r="32" fill="none" stroke="white" stroke-width="1.5" opacity="0.2"></circle>
                     </svg>
-                    <span class="brand-text">Hyper <span>TV</span></span>
+                <span class="brand-text">Hyper <span style="color: #e84f4f;">TV</span></span>
                 </div>
             </a>
             <button class="menu-btn" id="menuBtn" aria-label="เมนู">
@@ -1199,12 +1199,12 @@
         <div class="dropdown-overlay" id="dropdownOverlay"></div>
         <div class="dropdown-menu" id="dropdownMenu">
             <div class="menu-header">
-                <h3>📺 หมวดหมู่</h3>
+                <h3>📋 หมวดหมู่</h3>
                 <button class="close-btn" id="closeMenuBtn">✕</button>
             </div>
             <nav class="nav-main" id="navMain">
                 <button class="nav-main__btn active" data-cat="all">📋 ทั้งหมด</button>
-                <button class="nav-main__btn" data-cat="digital">📡 ทีวีไทย</button>
+                <button class="nav-main__btn" data-cat="digital">📺 ทีวีไทย</button>
                 <button class="nav-main__btn" data-cat="news">📰 ข่าว</button>
                 <button class="nav-main__btn" data-cat="movie">🎬 ภาพยนตร์</button>
                 <button class="nav-main__btn" data-cat="kids">🧸 การ์ตูน</button>
