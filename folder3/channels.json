@@ -310,7 +310,7 @@
   },
      {
     "name": "cinemaworld1",
-    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
     "logo": "https://assets.podomatic.net/ts/c2/48/0e/cinemaworldnews/600x600_11243934.jpg",
     "category": "movie"
   },
@@ -396,7 +396,7 @@
   },
     {
     "name": "MONOMAX",
-    "url": "https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/chunks.m3u8?nimblesessionid=2072411",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/chunks.m3u8?nimblesessionid=2072411",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
@@ -408,7 +408,7 @@
   },
      {
     "name": "beIN_Sports_Xtra",
-    "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u88",
+    "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",
     "category": "sport"
   },
@@ -420,13 +420,13 @@
   },
       {
     "name": "TSN1",
-    "url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn1.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn1.m3u8",
     "logo": "https://cdn.aptoide.com/imgs/2/8/d/28d2e4fb2899edbcfc8ffbb847327b60_icon.jpg",
     "category": "sport"
   },
      {
     "name": "TSN2",
-    "url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn2.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn2.m3u8",
     "logo": "https://cdn.aptoide.com/imgs/2/8/d/28d2e4fb2899edbcfc8ffbb847327b60_icon.jpg",
     "category": "sport"
   },
@@ -450,7 +450,7 @@
   },
      {
     "name": "skyf1",
-    "url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyf1.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyf1.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg",
     "category": "sport"
   },
@@ -486,7 +486,7 @@
   },
      {
     "name": "niktoon",
-    "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
     "logo": "https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png",
     "category": "kids"
   },
@@ -504,7 +504,7 @@
   },
       {
     "name": "discovery",
-    "url": "https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8",
     "logo": "https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg",
     "category": "documentary"
   },
