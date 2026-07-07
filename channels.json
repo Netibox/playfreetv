@@ -132,6 +132,13 @@
   },
   {
     "name": "Workpoint",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+    "category": "digital",
+
+  },
+   {
+    "name": "Workpoint สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
     "category": "digital",
@@ -140,11 +147,26 @@
   },
   {
     "name": "True4U",
+    "url": "https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",
+    "category": "digital",
+
+  },
+  {
+    "name": "True4U สำรอง",
     "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",
     "category": "digital",
     "keyId": "4eabd5db684248a98c5124fbb0687bde",
     "key": "d2f7a6f45b3c48678ca69c91d7823c25"
+  },
+ 
+  {
+    "name": "GMM 25",
+    "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
+    "logo": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",
+    "category": "digital",
+
   },
   {
     "name": "GMM 25",
@@ -154,22 +176,39 @@
     "keyId": "ae986b6dd3d84b2bb868c8765c604815",
     "key": "89bf3c85580249d5bac4d3edaec019ec"
   },
+ 
   {
     "name": "CH8",
+    "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
+    "logo": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",
+    "category": "digital",
+
+  },
+  {
+    "name": "CH8 สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd",
     "logo": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",
     "category": "digital",
     "keyId": "4a0a9dd380b4409c8dad910691283a0d",
     "key": "1447c104caa244d9a367549534e0b807"
   },
+ 
   {
     "name": "Mono 29",
+    "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2026/05/27/63d2e530-5999-11f1-9eae-09fe801bd2a9_webp_original.webp",
+    "category": "digital",
+
+  },
+   {
+    "name": "Mono 29 สำรอง ",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2026/05/27/63d2e530-5999-11f1-9eae-09fe801bd2a9_webp_original.webp",
     "category": "digital",
     "keyId": "96a14b36335645b391bbbb48c424fec7",
     "key": "e6971b27837a4822832d8215156bb516"
   },
+ 
   {
     "name": "MCOT HD",
     "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
