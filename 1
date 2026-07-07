@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+* {
+    user-select:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    -webkit-touch-callout:none;
+}
+html, body {
+    width:100%;
+    height:100%;
+    margin:0;
+    overflow:hidden;
+}
+</style>
+
+<script>
+// ป้องกันการเรียกดูแบบสคริปต์เบราว์เซอร์เปล่า ๆ
+if (window.self === window.top) {
+    // บล็อกคำสั่งพื้นฐาน (คลิกขวา, ลาก, เลือก)
+    document.addEventListener("contextmenu", e => e.preventDefault());
+    document.addEventListener("dragstart", e => e.preventDefault());
+    document.addEventListener("selectstart", e => e.preventDefault());
+    
+    // บล็อกคีย์บอร์ด F12 / Ctrl+Shift+I / Ctrl+U
+    document.addEventListener("keydown", function(e) {
+        if (e.key === "F12" || (e.ctrlKey && e.shiftKey && ["I","J","C"].includes(e.key.toUpperCase())) || (e.ctrlKey && e.key.toUpperCase() === "U")) {
+            e.preventDefault();
+        }
+    });
+
+    // ตรวจจับ DevTools ด้วยคำสั่ง debugger (สคริปต์ Python ทั่วไปจะติด Loop หรือพังตรงนี้)
+    setInterval(function() {
+        const t1 = performance.now();
+        debugger; 
+        const t2 = performance.now();
+        if (t2 - t1 > 100) { 
+            document.body.innerHTML = '<div style="display:flex;justify-content:center;align-items:center;height:100vh;font-size:24px;font-family:sans-serif;">Access Denied</div>';
+        }
+    }, 500);
+}
+</script>
+</head>
+<body>
+
+<iframe id="player" src="./folder3/index.html" width="100%" height="100%" style="position:fixed;top:0;left:0;border:none;"></iframe>
+
+<script>
+// ซ่อนค่าด้วยการเข้ารหัสแบบซับซ้อนขึ้นและไม่ใช้ชื่อตัวแปรที่ตรงไปตรงมา
+// ฟังก์ชันนี้จะแปลงค่ากลับมาเมื่อเว็บถูกโหลดบนเบราว์เซอร์จริงเท่านั้น
+(function(_0x1b2c, _0x3a4f) {
+    const _0x5d2e = function(_0x4a1b) {
+        return atob(_0x4a1b);
+    };
+    // คีย์ถูกแปลงเป็นอาร์เรย์เพื่อไม่ให้ Python ค้นหาเจอตรง ๆ
+    const _0x1a = [_0x5d2e("YUhSMGNEb3ZMMmx0WVc1d2IbTjBMbWRwZEdoMVlpNXBieTlwY0hSMmJtVjMv"), _0x5d2e("MDA6MTE6MjI6MzM6NDQ6NTU=")];
+    
+    // ส่งค่าผ่านกลไกที่ Python ดักจับยาก เช่นการฝังค่าใน SessionStorage หรือส่งเข้า iframe โดยตรง
+    window.addEventListener('DOMContentLoaded', () => {
+        const frame = document.getElementById('player');
+        if(frame) {
+            // ส่งค่า MAC และ URL เข้าไปให้ iframe ด้านในเป็นคนเรียกใช้งานแทนหน้าหลัก
+            frame.onload = function() {
+                frame.contentWindow.postMessage({
+                    type: 'INIT_CONFIG',
+                    p: _0x1a[0],
+                    m: _0x1a[1]
+                }, '*');
+            };
+        }
+    });
+})();
+</script>
+</body>
+</html>
