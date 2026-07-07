@@ -336,13 +336,58 @@
     {
     "name": "Channel 8",
     "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8",
-    "logo": "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",
+    "logo": "https://image.winudf.com/v2/image/Y29tLmNoYW5uZWw4LmxpdmVfaWNvbl8wXzQzYTA0MjEy/icon.png",
     "category": "movie"
   },
    {
     "name": "KPOP",
     "url": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8",
     "logo": "https://img.magnific.com/premium-vector/k-pop-text_1171012-3221.jpg",
+    "category": "movie"
+  },
+    {
+    "name": "Mono29Plus",
+    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
+    "category": "movie",
+    "keyId": "072eeb02f6744f838fcc8f0ef36b312e",
+    "key": "b797c12f2dd64728aae23fd3c8ef275c"
+  },
+     {
+    "name": "Hbo hits",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd",
+    "logo": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-409x409.png",
+    "category": "movie",
+    "keyId": "b04ae8017b5b4601a5a0c9060f6d5b7d",
+    "key": "a8795f3bdb8a4778b7e888ee484cc7a1"
+  },
+      {
+    "name": "Hbo sign",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png",
+    "category": "movie",
+    "keyId": "a06ca6c275744151895762e0346380f5",
+    "key": "559da1b63eec77b5a942018f14d3f56f"
+  },
+   },
+      {
+    "name": "HBO Family",
+    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
+    "logo": "https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png",
+    "category": "movie",
+    "keyId": "07b138f30ad3441ca5a2f476e550af25",
+    "key": "826ee4deef4b45cfafd5f79a591b15c6"
+  },
+     {
+    "name": "THAIFILM",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115667.m3u8",
+    "logo": "https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
+    "category": "movie"
+  },
+    {
+    "name": "iplay",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://43.229.132.25/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8",
+    "logo": "https://media.pocketgamer.biz/images/3709/43185/iplay-new-logo_s320.jpg",
     "category": "movie"
   },
    {
@@ -396,8 +441,14 @@
   },
     {
     "name": "MONOMAX",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/chunks.m3u8?nimblesessionid=2072411",
+    "url": "https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/chunks.m3u8",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
+    "category": "sport"
+  },
+     {
+    "name": "Bein En",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+    "logo": "https://f.ptcdn.info/909/090/000/mnflwx0co3kNQynawl0-o.jpg",
     "category": "sport"
   },
      {
@@ -413,20 +464,20 @@
     "category": "sport"
   },
      {
-    "name": "FPS1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/3840px-2015_Fox_Sports_1_logo.svg.png",
+    "name": "ctsport",
+    "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+    "logo": "https://cdn.aptoide.com/imgs/6/a/9/6a9d6294be85d251de1c330f2800763e_fgraphic.png",
     "category": "sport"
   },
       {
     "name": "TSN1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn1.m3u8",
+    "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=902070&extension=m3u8",
     "logo": "https://cdn.aptoide.com/imgs/2/8/d/28d2e4fb2899edbcfc8ffbb847327b60_icon.jpg",
     "category": "sport"
   },
      {
     "name": "TSN2",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn2.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=902071&extension=m3u8",
     "logo": "https://cdn.aptoide.com/imgs/2/8/d/28d2e4fb2899edbcfc8ffbb847327b60_icon.jpg",
     "category": "sport"
   },
@@ -448,6 +499,12 @@
     "logo": "https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg",
     "category": "sport"
   },
+         {
+    "name": "golf PGA",
+    "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8",
+    "logo": "https://blog.flicks.co.nz/wp-content/uploads/PGA_Tour_logo.svg_.png",
+    "category": "sport"
+  },
      {
     "name": "skyf1",
     "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyf1.m3u8",
@@ -455,9 +512,9 @@
     "category": "sport"
   },
       {
-    "name": "HIFIGHT",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/HIFIGHT",
-    "logo": "https://img.magnific.com/premium-vector/boxing-esport-mascot-logo-design_119810-1875.jpg",
+    "name": "FPS1",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fcsm-e-cetubilusordlive-97882305.csm.tubi.video%2Fcsm%2Flive%2F750513104%2F5.m3u8%3Bjsessionid%3DD5764203CAA87FFA9EC421603D131DD5.csm-e-cetubilusordlive-97882305.csm.tubi.video%3Fplayback_start_ts%3D1783427878%26yo.ap%3Dhttps%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F%26yo.t.jt%3D1000%26ss.exp%3D20260710123758%26ss.sig%3Dce2e75dfa544d82147394fee554130e1992310",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/250px-2015_Fox_Sports_1_logo.svg.png",
     "category": "sport"
   },
      {
@@ -472,6 +529,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/3840px-SPOTV_logo.svg.png",
     "category": "sport"
   },
+       {
+    "name": "TNA มวยปล่ำ",
+    "url": "https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+    "logo": "https://www.pwmania.com/wp-content/uploads/2024/07/01-tna-impact-logo-red-696x398.jpg",
+    "category": "sport"
+  },
+
      {
     "name": "Cartoonumi",
     "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/Cartoonumi",
