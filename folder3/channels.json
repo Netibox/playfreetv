@@ -248,5 +248,17 @@
     "url": "https://server1.streamssl.com/stream/news1_mid.m3u8",
     "logo": "https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.webp",
     "category": "digital"
-  }
+  },
+   {
+    "name": "News1",
+    "url": "https://server1.streamssl.com/stream/news1_mid.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.webp",
+    "category": "news"
+  },
+   {
+    "name": "Top News",
+    "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+    "logo": "https://cms.dmpcdn.com/livetv/2025/06/19/cab7bcc0-4cc6-11f0-b437-536ba535ba63_webp_original.webp",
+    "category": "news"
+  },
 ]
