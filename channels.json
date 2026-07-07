@@ -11,7 +11,7 @@
     "name": "CH3 HD สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "9d76aea451d441a4913d4d70c4e586ab",
     "key": "051027a6ff54494b949ba792928e9008"
   },
@@ -27,7 +27,7 @@
     "name": "CH5 HD สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "87db4361f7894655a4656e9c8b935a02",
     "key": "b025a4b950df41158a87cfc8d6f2ac34"
   },
@@ -43,7 +43,7 @@
     "name": "CH7 HD สำรอง",
     "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "4d4426a505f64382a9841155d721cee6",
     "key": "0f4770219ccb4be5836a7517057e51c3"
   },
@@ -59,7 +59,7 @@
     "name": "Thairath TV สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
     "logo": "https://img1.pic.in.th/images/1000040856.jpg",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "4b2bff3e598043cfaf949305e3d153fa",
     "key": "545df84ff4c54af6b5385516e0f65956"
   },
@@ -76,7 +76,7 @@
     "name": "AmarinTV HD สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "0b898bb9530b4b0a97e444d1e1f8960e",
     "key": "dab1a7c035d94287ac64417ef809ed3b"
   },
@@ -86,7 +86,7 @@
     "name": "NBT HD",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "ca20a93cf8e3421dafbd5bdb1990081b",
     "key": "86ae86a7391c481ea93eecdb740f0a14"
   },
@@ -94,7 +94,7 @@
     "name": "THAI PBS HD",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "4d4426a505f64382a9841155d721cee6",
     "key": "0f4770219ccb4be5836a7517057e51c3"
   },
@@ -102,7 +102,7 @@
     "name": "TSPORTS 7",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "6187523f92b9475bb5b192f70cef1342",
     "key": "5119311f482144d58dacabc5bc1fa4ba"
   },
@@ -110,7 +110,7 @@
     "name": "TPTV",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "5da46688fd1e4ed5b085a12519b9dc4e",
     "key": "fd07bcf33823447180f53f6540f74ccb"
   },
@@ -118,7 +118,7 @@
     "name": "TNN16",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "9ebedc957e934d2b9023e4e60b97af73",
     "key": "7bcb4363df74457bbafedec1a864e6b6"
   },
@@ -126,7 +126,7 @@
     "name": "Nation TV",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "88b44b9be186449ca5322053d975aa4c",
     "key": "b95b471541994278a1960fd4f85a7ee2"
   },
@@ -141,7 +141,7 @@
     "name": "Workpoint สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "8e66726c1191403588f95c0757613ff1",
     "key": "67c26ba7f9b84024944808e01bbe6f47"
   },
@@ -173,7 +173,7 @@
     "name": "GMM 25 สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
     "logo": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "ae986b6dd3d84b2bb868c8765c604815",
     "key": "89bf3c85580249d5bac4d3edaec019ec"
   },
@@ -189,7 +189,7 @@
     "name": "CH8 สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd",
     "logo": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "4a0a9dd380b4409c8dad910691283a0d",
     "key": "1447c104caa244d9a367549534e0b807"
   },
@@ -205,7 +205,7 @@
     "name": "Mono 29 สำรอง ",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2026/05/27/63d2e530-5999-11f1-9eae-09fe801bd2a9_webp_original.webp",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "96a14b36335645b391bbbb48c424fec7",
     "key": "e6971b27837a4822832d8215156bb516"
   },
@@ -226,7 +226,7 @@
     "name": "ONE31 HD สำรอง",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
     "logo": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
-    "category": "digital",
+    "category": "digital2",
     "keyId": "6529c8cd99db4489bd237f616f37124b",
     "key": "b9d299ba9ea94fd2ac4a77e8966dd91e"
   },
