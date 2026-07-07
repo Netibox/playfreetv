@@ -507,8 +507,8 @@ setInterval(function(){
         .dropdown-menu .nav-sub__btn {
             font-size: 12px;
             padding: 4px 12px;
-            background: rgba(146, 200, 62, 0.05);
-            border: 1px solid rgba(146, 200, 62, 0.15);
+            background: rgba(255, 68, 68, 0.05); /* เปลี่ยนเป็นสีแดงจางมาก 5% */
+            border: 1px solid rgba(255, 68, 68, 0.15); /* เส้นขอบแดงจาง 15% */
             border-radius: var(--radius-sm);
             color: #ddd;
             cursor: pointer;
@@ -516,11 +516,11 @@ setInterval(function(){
             transition: all var(--transition-fast);
         }
         .dropdown-menu .nav-sub__btn.active {
-            background: rgba(146, 200, 62, 0.2);
-            border-color: var(--playtv-green);
-            color: var(--playtv-green);
+            background: rgba(255, 68, 68, 0.2); /* สีแดงจาง 20% เมื่อคลิกเลือก */
+            border-color: #ff4444; /* เส้นขอบสีแดงเข้ม */
+            color: #ff4444; /* ตัวหนังสือสีแดง */
         }
-
+        
         /* ===== MAIN ===== */
         .main {
             display: flex;
