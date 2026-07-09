@@ -2,7 +2,7 @@
  
     {
     "name": "CH3 HD",
-    "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/chunklist_w1630241822.m3u8",
+    "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/chunklist_w860419880.m3u8",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
     "category": "digital"
 
@@ -206,7 +206,7 @@
  
   {
     "name": "Mono 29",
-    "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w1337175441.m3u8",
+    "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w275341469.m3u8",
     "logo": "https://cms.dmpcdn.com/livetv/2026/05/27/63d2e530-5999-11f1-9eae-09fe801bd2a9_webp_original.webp",
     "category": "digital"
 
@@ -336,7 +336,7 @@
     {
     "name": "Channel 8",
     "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8",
-    "logo": "https://image.winudf.com/v2/image/Y29tLmNoYW5uZWw4LmxpdmVfaWNvbl8wXzQzYTA0MjEy/icon.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwn6Y10qLF9PZN51BnOSNnHGoSsbn1W4nX4BksUAQPDw&s",
     "category": "movie"
   },
    {
@@ -348,7 +348,7 @@
     {
     "name": "Mono29Plus",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
-    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Mono_Plus.png",
     "category": "movie",
     "keyId": "072eeb02f6744f838fcc8f0ef36b312e",
     "key": "b797c12f2dd64728aae23fd3c8ef275c"
@@ -500,8 +500,14 @@
     "category": "sport"
   },
      {
-    "name": "VNL2",
-    "url": "https://live.mee88player.com/live/1493.m3u8",
+    "name": "VNLช่อง2",
+    "url": "https://live.mee88player.com/live/1494.m3u8",
+    "logo": "https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg",
+    "category": "sport"
+  },
+      {
+    "name": "VNLช่อง3",
+    "url": "https://live.mee88player.com/live/1495.m3u8",
     "logo": "https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg",
     "category": "sport"
   },
