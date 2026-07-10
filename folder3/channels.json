@@ -607,17 +607,12 @@
 { 
   "name": "test app", 
   "url": "https://hb-chi-nine.vercel.app/", 
-  "logo": "https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-260nw-2696081649.jpg", 
+  "logo": "https://s.isanook.com/mn/0/ud/11/58372/html5_logo_512.jpg?ip/crop/w670h402/q80/jpg", 
   "category": "documentary",
   "open_with": "browser" 
-},
-
-{ 
-  "name": "test app", 
-  "url": "https://hb-chi-nine.vercel.app/", 
-  "logo": "https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-260nw-2696081649.jpg", 
-  "category": "documentary" 
 }
+
+
  
  
  
