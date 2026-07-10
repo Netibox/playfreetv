@@ -1291,22 +1291,7 @@
             // ============================================================
             // 2. ฟังก์ชันเมื่อมีการกดคลิกที่รูปภาพหรือชื่อหนังเปิดแอพบราวเซอร์
             // ============================================================
-   // ==== ฟังก์ชันสร้างการ์ดหนังแต่ละใบ ====
-    function renderMovies() {
-      const container = document.getElementById('movie-list');
-      movies.forEach(data => {
-        const card = document.createElement('div');
-        card.className = 'movie-card';
-        card.innerText = data.name;
-
-        // ผูก event click ตรงนี้ — สำคัญ: ต้องเรียก onMovieClick ทันที ไม่ผ่าน await
-        card.addEventListener('click', () => onMovieClick(data));
-
-        container.appendChild(card);
-      });
-    }
-
-    // ==== ฟังก์ชันเมื่อคลิกที่รูปภาพหรือชื่อหนัง ====
+   // ==== ฟังก์ชันเมื่อคลิกที่รูปภาพหรือชื่อหนัง ====
     function onMovieClick(data) {
       if (data.open_with === "browser") {
         const newWin = window.open(data.url, '_blank', 'noopener,noreferrer');
