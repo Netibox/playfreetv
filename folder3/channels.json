@@ -602,7 +602,24 @@
     "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/X-ZYTE/tracks-v1a1/mono.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",
     "category": "documentary"
-  }
+  },
+
+
+{
+  "name": "test app",
+  "logo": "https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-260nw-2696081649.jpg",
+  "intent": "liftplay://play?url=http://54.37.19.157/CCM/tracks-v1a1/playlist.m3u8",
+  "category": "documentary",
+  "sub": "up"
+},
+{
+  "name": "test2",
+  "logo": "https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-260nw-2696081649.jpg",
+  "url": "http://54.37.19.157/CCM/tracks-v1a1/playlist.m3u8",
+  "category": "documentary",
+  "sub": "up"
+}
+ 
  
  
 ]
