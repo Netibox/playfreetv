@@ -1291,16 +1291,43 @@
             // ============================================================
             // 2. ฟังก์ชันเมื่อมีการกดคลิกที่รูปภาพหรือชื่อหนังเปิดแอพบราวเซอร์
             // ============================================================
-            // ฟังก์ชันเมื่อมีการกดคลิกที่รูปภาพหรือชื่อหนัง
-function onMovieClick(data) {
-  if (data.open_with === "browser") {
-    // บังคับให้เปิดลิงก์ในหน้าเบราว์เซอร์ใหม่ทันที
-    window.open(data.url, '_blank');
-  } else {
-    // เปิดเล่นภายในตัวแปร หรือเล่นในแอปเดิมตามปกติ
-    playInApp(data.url);
-  }
-}
+   // ==== ฟังก์ชันสร้างการ์ดหนังแต่ละใบ ====
+    function renderMovies() {
+      const container = document.getElementById('movie-list');
+      movies.forEach(data => {
+        const card = document.createElement('div');
+        card.className = 'movie-card';
+        card.innerText = data.name;
+
+        // ผูก event click ตรงนี้ — สำคัญ: ต้องเรียก onMovieClick ทันที ไม่ผ่าน await
+        card.addEventListener('click', () => onMovieClick(data));
+
+        container.appendChild(card);
+      });
+    }
+
+    // ==== ฟังก์ชันเมื่อคลิกที่รูปภาพหรือชื่อหนัง ====
+    function onMovieClick(data) {
+      if (data.open_with === "browser") {
+        const newWin = window.open(data.url, '_blank', 'noopener,noreferrer');
+        if (!newWin) {
+          console.warn('Popup ถูกบล็อก ใช้ fallback');
+          window.location.href = data.url;
+        }
+      } else {
+        playInApp(data.url);
+      }
+    }
+
+    // ==== ฟังก์ชันเล่นภายในแอป (ถ้ามี) ====
+    function playInApp(url) {
+      // โค้ดเล่นวิดีโอในแอปของคุณเอง
+      console.log('เล่นในแอป:', url);
+    }
+
+    // เรียกใช้งานตอนโหลดหน้าเว็บ
+    renderMovies();
+
 
             // ============================================================
             // 2. DATA - ช่องทั้งหมด (โหลดจากไฟล์ channels.json)
