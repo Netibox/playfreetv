@@ -2,7 +2,7 @@
  
     {
     "name": "CH3 HD",
-    "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/chunklist_w860419880.m3u8",
+    "url": "http://gold.6395online.com:8080/live/Iptv6988/0905692638/83.m3u8",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
     "category": "digital"
 
@@ -286,7 +286,7 @@
   },
     {
     "name": "CCM",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776205.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/151.m3u8",
     "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
     "category": "movie"
   },
@@ -329,7 +329,7 @@
 
   {
     "name": "AXN",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/axn/tracks-v1a1/playlist.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/129.m3u8",
     "logo": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/AXN_%282015%29.jpg",
     "category": "movie"
   },
@@ -353,7 +353,14 @@
     "keyId": "072eeb02f6744f838fcc8f0ef36b312e",
     "key": "b797c12f2dd64728aae23fd3c8ef275c"
   },
-     {
+          {
+    "name": "Hbo hits",
+    "url": "http://6395online.com:8080/live/Iptv6988/0905692638/134.m3u8",
+    "logo": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-409x409.png",
+    "category": "movie"
+
+  },
+ {
     "name": "Hbo hits",
     "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd",
     "logo": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-409x409.png",
@@ -361,7 +368,14 @@
     "keyId": "b04ae8017b5b4601a5a0c9060f6d5b7d",
     "key": "a8795f3bdb8a4778b7e888ee484cc7a1"
   },
+
       {
+    "name": "Hbo sign",
+    "url": "https://live.iptv-th.workers.dev/live/72.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png",
+    "category": "movie"
+  },
+       {
     "name": "Hbo sign",
     "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png",
@@ -369,7 +383,13 @@
     "keyId": "a06ca6c275744151895762e0346380f5",
     "key": "559da1b63eec77b5a942018f14d3f56f"
   },
-  
+
+       {
+    "name": "HBO Family",
+    "url": "http://6395online.com:8080/live/Iptv6988/0905692638/136.m3u8",
+    "logo": "https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png",
+    "category": "movie"
+  },
       {
     "name": "HBO Family",
     "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
@@ -392,44 +412,44 @@
   },
    {
     "name": "TrueSport1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/206.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
     {
     "name": "TrueSport2",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/207.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
 
    {
     "name": "TrueSport3",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/208.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
     {
     "name": "TrueSport7",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/tsp7/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/211.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
     {
     "name": "Bein1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/203.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
     {
     "name": "Bein2",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/204.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
      {
     "name": "Bein3",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/205.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
@@ -537,13 +557,13 @@
   },
      {
     "name": "spotv1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/spotv/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/219.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/3840px-SPOTV_logo.svg.png",
     "category": "sport"
   },
       {
     "name": "spotv2",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/spotv2/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/217.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/3840px-SPOTV_logo.svg.png",
     "category": "sport"
   },
@@ -580,26 +600,26 @@
   },
      {
     "name": "history",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/history/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/277.m3u8",
     "logo": "https://images.seeklogo.com/logo-png/37/1/history-logo-png_seeklogo-373581.png",
     "category": "documentary"
   },
       {
     "name": "discovery",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/274.m3u8",
     "logo": "https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg",
     "category": "documentary"
   },
       {
     "name": "samrujlok",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/samrujlok/tracks-v1a1/playlist.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/295.m3u8",
     "logo": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png",
     "category": "documentary"
   },
 
       {
     "name": "Xzyte",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://54.37.19.157/X-ZYTE/tracks-v1a1/mono.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/297.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",
     "category": "documentary"
   },
