@@ -630,6 +630,14 @@
     "category": "documentary"
   },
 
+ 
+      {
+    "name": "เป็นต่อ seriedays",
+    "url": "https://main.24playerhd.com/m3u8/03306c4120d2194dc832fe99/03306c4120d2194dc832fe99438.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",
+    "category": "documentary"
+  },
+
 { 
   "name": "test app", 
   "url": "https://hb-chi-nine.vercel.app/", 
