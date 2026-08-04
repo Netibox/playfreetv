@@ -286,7 +286,7 @@
   },
     {
     "name": "CCM",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/151.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/76.m3u8",
     "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
     "category": "movie"
   },
@@ -371,7 +371,7 @@
 
       {
     "name": "Hbo sign",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/67.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/68.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png",
     "category": "movie"
   },
@@ -418,7 +418,7 @@
   },
    {
     "name": "TrueSport1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/51.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
@@ -463,6 +463,12 @@
     "name": "Caze_TV_BR",
     "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8",
     "logo": "https://flamengotv.com/wp-content/uploads/2025/10/cf3b35181888595.Y3JvcCw5OTIsNzc2LDE1NCwyMg.png",
+    "category": "sport"
+  },
+     {
+    "name": "MONOMAX29",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/14.m3u8",
+    "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
     {
@@ -520,22 +526,22 @@
     "category": "sport"
   },
         {
-    "name": "VNL1",
-    "url": "https://live.mee88player.com/live/1493.m3u8",
-    "logo": "https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg",
-    "category": "sport"
+    "name": "Cenimax",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/136.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+    "category": "movie"
   },
      {
-    "name": "VNLช่อง2",
-    "url": "https://live.mee88player.com/live/1494.m3u8",
-    "logo": "https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg",
-    "category": "sport"
+    "name": "True Series",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/125.m3u8",
+    "logo": "https://static.tvmaze.com/uploads/images/large_landscape/312/781822.jpg",
+    "category": "movie"
   },
       {
-    "name": "VNLช่อง3",
-    "url": "https://live.mee88player.com/live/1495.m3u8",
-    "logo": "https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg",
-    "category": "sport"
+    "name": "afn",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/41.m3u8",
+    "logo": "https://www.tlc-tw.com/images/afn_logo@3x.png",
+    "category": "documentary"
   },
         {
     "name": "golf",
@@ -563,14 +569,20 @@
   },
      {
     "name": "spotv1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/219.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/19091.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/3840px-SPOTV_logo.svg.png",
     "category": "sport"
   },
       {
     "name": "spotv2",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://6395online.com:8080/live/Iptv6988/0905692638/217.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/19092.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/3840px-SPOTV_logo.svg.png",
+    "category": "sport"
+  },
+       {
+    "name": "GOFL+",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/41.m3u8",
+    "logo": "https://www.golfplusvr.com/images/og-image-2.webp",
     "category": "sport"
   },
        {
@@ -643,10 +655,16 @@
   "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/63.m3u8", 
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3s3ODnFn6elYwKbJ1DA2q8C_JFBD7ziO0dnbyRvoGqw&s=10", 
   "category": "documentary",
-  "open_with": "browser" 
+  "open_with": "documentary" 
 }
 
-
+{ 
+  "name": " SCience", 
+  "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/84.m3u8", 
+  "logo": "https://www.eurokidsindia.com/blog/wp-content/uploads/2024/02/science-exhibitions.jpg", 
+  "category": "documentary",
+  "open_with": "documentary" 
+}
  
  
  
