@@ -2,7 +2,7 @@
  
     {
     "name": "CH3 HD",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/18.m3u8",
+    "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1782653102&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=jK0bLvj7PK8w5Xw7p7OQDA",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
     "category": "digital"
 
@@ -49,7 +49,7 @@
  
   {
     "name": "Workpoint",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/10.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://117.18.127.253:8080/live/TypgLAf1vkASLoYATypgLAf1vkASLoYAZsJEXLvJefHfrfovZsJEXLvJefHfrfov/3xYtUYBCHIvQZy5UCi3xYtUYBCHIvQZy5UCiZCocKhsJFWYgGZZCocKhsJFWYgGZ/31422.m3u8",
     "logo": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
     "category": "digital"
 
