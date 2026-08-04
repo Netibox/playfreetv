@@ -2,7 +2,7 @@
  
     {
     "name": "CH3 HD",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeY2MxM2Q1YjZhMjMyYTY1ZDJmNgNjE1YmQzMjRmOWNkOTQz",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1785916501&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=XYCcRtGWUKWjgVnMW4iIPA",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
     "category": "digital"
 
