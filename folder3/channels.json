@@ -305,7 +305,7 @@
   },
     {
     "name": "Bein1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/19088.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://139.99.61.175:25461/M9005/6825/151",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
@@ -317,7 +317,7 @@
   },
      {
     "name": "Bein3",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/19090.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://139.99.61.175:25461/M9005/6825/152",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
