@@ -163,19 +163,19 @@
   },
    {
     "name": "หนัง SERIES",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/SERIES",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://49.0.64.96:8007/SERIES",
     "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
     "category": "movie"
   },
    {
     "name": "หนัง IZAA",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/IZAA",
+    "url": "hhttps://iptv.tawatchai250958.workers.dev/?url=http://49.0.64.96:8007/IZAA",
     "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
     "category": "movie"
   },
     {
     "name": "หนัง PING",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/PING",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://49.0.64.96:8007/PING",
     "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
     "category": "movie"
   },
@@ -334,14 +334,14 @@
     "category": "sport"
   },
      {
-    "name": "MONOMAX29",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/228610.m3u8",
+    "name": "MONOMAX",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8&referer=https://warpdooball.net/",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
     {
-    "name": "MONOMAX",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fmonomax-2%2Fchunks.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F",
+    "name": "MONOMAX2",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8&referer=https://warpdooball.net/",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
