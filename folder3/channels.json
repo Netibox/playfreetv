@@ -86,13 +86,7 @@
     "category": "digital"
 
   },
-  {
-    "name": "Mono 29 สำรอง",
-    "url": "https://iptv.istyledode.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/mono29/chunks.m3u8&referer=https://warpdooball.net/",
-    "logo": "https://cms.dmpcdn.com/livetv/2026/05/27/63d2e530-5999-11f1-9eae-09fe801bd2a9_webp_original.webp",
-    "category": "digital"
 
-  },
   {
     "name": "MCOT HD",
     "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
@@ -151,12 +145,12 @@
 
    {
     "name": "HBO TH",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://43.228.85.248:8990/stream/ais/hbohd/master.m3u8?u=admin2025a5brt&p=048d3a220cb399309e101459f5bcc27e34393433ff31d3105e66fff6a66e878e",
     "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
     "category": "movie"
   },
     {
-    "name": "HBO TH",
+    "name": "HBO TH2",
     "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://tiea1.3bbddns.com:28470/0.m3u8",
     "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
     "category": "movie"
@@ -164,6 +158,12 @@
     {
     "name": "CCM",
     "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/118.m3u8",
+    "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
+    "category": "movie"
+  },
+     {
+    "name": "CCM2",
+    "url": "https://iptv.istyledode.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm",
     "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
     "category": "movie"
   },
