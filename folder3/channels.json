@@ -329,7 +329,7 @@
   },
      {
     "name": "Bein3",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8&referer=https://warpdooball.net/",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8&referer=https://warpdooball.net/",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
@@ -477,24 +477,7 @@
     "logo": "https://www.chessdom.com/wp-content/uploads/2022/06/CCTV-5-China-350x270.jpg",
     "category": "sport"
   },
-         {
-    "name": "SONY SPORT",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://139.99.61.175:25461/M9005/6825/178",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png",
-    "category": "sport"
-  },
-         {
-    "name": "Astro_Premier",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://139.99.61.175:25461/M9005/6825/146",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png",
-    "category": "sport"
-  },
-         {
-    "name": "Astro_Premier2",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://139.99.61.175:25461/M9005/6825/145",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png",
-    "category": "sport"
-  },
+
 
          {
     "name": "Sportv",
