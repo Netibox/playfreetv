@@ -292,14 +292,14 @@
   },
    {
     "name": "TrueSport1",
-    "url": "https://iptv.istyledode.workers.dev/?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
 
     {
     "name": "TrueSport2",
-    "url": "https://iptv.istyledode.workers.dev/?url=http://103.114.203.129:8080//live/toom/12345/51.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/51.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
@@ -322,20 +322,20 @@
 
     {
     "name": "Bein1",
-    "url": "https://iptv.istyledode.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=bein1",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=bein1",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
 
     {
     "name": "Bein2",
-    "url": "https://iptv.iveenvon.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=bein2",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=bein2",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
      {
     "name": "Bein3",
-    "url": "https://iptv.iveenvon.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=bein3",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=bein3",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
@@ -347,7 +347,7 @@
   },
      {
     "name": "MONOMAX",
-    "url": "https://iptv.iveenvon.workers.dev/?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/228610.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/228610.m3u8",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
