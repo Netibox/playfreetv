@@ -292,14 +292,14 @@
   },
    {
     "name": "TrueSport1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp1%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
 
     {
     "name": "TrueSport2",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://103.114.203.129:8080//live/toom/12345/51.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp2%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
@@ -307,7 +307,7 @@
 
    {
     "name": "TrueSport3",
-    "url": "https://iptv.istyledode.workers.dev/?url=https://103.114.203.129:25463/live/toom/12345/51379.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp3%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
@@ -315,7 +315,7 @@
 
     {
     "name": "TrueSport7",
-    "url": "https://iptv.istyledode.workers.dev/?url=https://103.114.203.129:25463/live/toom/12345/51332.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp7%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
