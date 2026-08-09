@@ -327,7 +327,7 @@
   },
     {
     "name": "TrueSport2 test",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://103.114.203.129:8080/toom/12345/51",
+    "url": "http://103.114.203.129:8080/toom/12345/51",
      "referer": "http://103.114.203.129:8080/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -353,20 +353,20 @@
 
     {
     "name": "Bein1",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://103.114.203.129:8080//live/toom/12345/102.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein1.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
 
     {
     "name": "Bein2",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://103.114.203.129:8080//live/toom/12345/104.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein2.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
      {
     "name": "Bein3",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://103.114.203.129:8080//live/toom/12345/105.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein3.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
