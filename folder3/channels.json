@@ -157,7 +157,7 @@
   },
      {
     "name": "HBO TH3",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://cdn2.stream.atmflix.live/atmflixlive/hbo/playlist.m3u8&referer=https://atmflix.live/",
+    "url": "https://iptv.istyledode.workers.dev/?url=https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/hbo.m3u8",
     "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
     "category": "movie"
   },
