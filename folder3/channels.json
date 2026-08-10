@@ -145,7 +145,7 @@
 
    {
     "name": "HBO TH",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://43.228.85.248:8990/stream/ais/hbohd/master.m3u8?u=admin2025a5brt&p=048d3a220cb399309e101459f5bcc27e34393433ff31d3105e66fff6a66e878e",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo",
     "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
     "category": "movie"
   },
@@ -156,9 +156,9 @@
     "category": "movie"
   },
      {
-    "name": "HBO TH3",
-    "url": "https://iptv.istyledode.workers.dev/?url=https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/hbo.m3u8",
-    "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
+    "name": "Asian more",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=asianmore",
+    "logo": "https://i.ytimg.com/vi/DMu-Np2FhzM/maxresdefault.jpg",
     "category": "movie"
   },
  
@@ -199,24 +199,7 @@
     "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
     "category": "movie"
   },
-    {
-    "name": "หนัง ฝรั่ง",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119704.m3u8",
-    "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
-    "category": "movie"
-  },
-    {
-    "name": "หนัง เอเชีย",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119705.m3u8",
-    "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
-    "category": "movie"
-  },
-     {
-    "name": "หนัง ไทย",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119706.m3u8",
-    "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
-    "category": "movie"
-  },
+
       {
     "name": "ROCKEXTEM",
     "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/141.m3u8",
@@ -226,14 +209,14 @@
  
      {
     "name": "cinemaworld1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
     "logo": "https://assets.podomatic.net/ts/c2/48/0e/cinemaworldnews/600x600_11243934.jpg",
     "category": "movie"
   },
     {
-    "name": "Universal",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/H-Channel",
-    "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
+    "name": "warner",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=warner",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",
     "category": "movie"
   },
    {
@@ -251,7 +234,7 @@
 
   {
     "name": "AXN",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
     "logo": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/AXN_%282015%29.jpg",
     "category": "movie"
   },
@@ -270,18 +253,12 @@
 
           {
     "name": "Hbo hits",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://cdn2.stream.atmflix.live/atmflixlive/hbo-hits/playlist.m3u8&referer=https://atmflix.live/",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://tiea1.3bbddns.com:28470/4.m3u8",
     "logo": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-409x409.png",
     "category": "movie"
 
   },
-          {
-    "name": "Hbo hits TEST",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/133.m3u8",
-    "logo": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-409x409.png",
-    "category": "movie"
 
-  },
 
       {
     "name": "Hbo sign",
@@ -299,14 +276,39 @@
   },
 
      {
-    "name": "THAIFILM",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd",
+    "name": "trueTHAIFILM",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilm",
     "logo": "https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
     "category": "movie"
   },
       {
+    "name": "THAIFILMHD",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd",
+    "logo": "https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
+    "category": "movie"
+  },
+      {
+    "name": "True series",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=trueseries",
+    "logo": "https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
+    "category": "movie"
+  },
+        {
+          "name": "True Film Asia",
+           "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia",
+          "image": "https://6395online.com:8443/logotv/movie/filmasia.jpg",
+  "category": "movie"
+        },
+        {
+          "name": "True Movie Hits",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits",
+          "image": "https://6395online.com:8443/logotv/movie/moviehits.png",
+  "category": "movie"
+        },
+ 
+      {
     "name": "Cinimax",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/136.m3u8",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=cinemax",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
     "category": "movie"
   },
@@ -359,20 +361,20 @@
 
     {
     "name": "Bein1",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8&referer=https://warpdooball.net/",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=bein1",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
 
     {
     "name": "Bein2",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8&referer=https://warpdooball.net/",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=bein2",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
      {
     "name": "Bein3",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8&referer=https://warpdooball.net/",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=bein2",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
