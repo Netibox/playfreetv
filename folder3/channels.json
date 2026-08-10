@@ -162,14 +162,8 @@
     "category": "movie"
   },
  
-    {
+ {
     "name": "CCM",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/118.m3u8",
-    "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
-    "category": "movie"
-  },
-     {
-    "name": "CCM2",
     "url": "https://iptv.istyledode.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm",
     "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
     "category": "movie"
@@ -296,13 +290,13 @@
         {
           "name": "True Film Asia",
            "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia",
-          "image": "https://6395online.com:8443/logotv/movie/filmasia.jpg",
+          "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",
   "category": "movie"
         },
         {
           "name": "True Movie Hits",
           "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits",
-          "image": "https://6395online.com:8443/logotv/movie/moviehits.png",
+          "image": "https://media.tenor.com/ypmXw98HEMEAAAAe/pawat-kasemsawat.png",
   "category": "movie"
         },
  
