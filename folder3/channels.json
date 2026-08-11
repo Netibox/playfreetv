@@ -314,7 +314,7 @@
   },
    {
     "name": "TrueSport1",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8",
+    "url": "https://sportpoxy.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23073.m3u8",
     "referer": "http://dootvz.ddns.net:25461/live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -322,23 +322,17 @@
 
     {
     "name": "TrueSport2",
-    "url": "http://dootvz.ddns.net:25461/live/skycos3/aa2233/36.m3u8",
+    "url": "https://sport2porxy.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8",
      "referer": "http://dootvz.ddns.net:25461/live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
-    {
-    "name": "TrueSport2 test",
-    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=bein1",
-     "referer": "https://movieproxy.tawatchai250958.workers.dev/",
-    "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-    "category": "sport"
-  },
+
 
 
    {
     "name": "TrueSport3",
-    "url": "https://iptv.iveenvon.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8&referer=https://warpdooball.net/",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23075.m3u8",
     "referer": "https://warpdooball.net/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -347,7 +341,7 @@
 
     {
     "name": "TrueSport7",
-    "url": "https://iptv.iveenvon.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8&referer=https://warpdooball.net/",
+    "url": "https://sportporxy7.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23077.m3u8",
      "referer": "https://warpdooball.net/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
