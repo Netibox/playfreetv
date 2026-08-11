@@ -145,7 +145,7 @@
 
    {
     "name": "HBO TH",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo",
     "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
     "category": "movie"
   },
@@ -164,7 +164,7 @@
  
  {
     "name": "CCM",
-    "url": "https://iptv.istyledode.workers.dev/?url=https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8",
     "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
     "category": "movie"
   },
@@ -196,7 +196,7 @@
 
       {
     "name": "ROCKEXTEM",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/4157/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4157/playlist.m3u8",
     "logo": "https://t4.ftcdn.net/jpg/00/92/95/01/360_F_92950119_QlemH9AlK92LCWcbcUj7pCfCi1FbJcmZ.jpg",
     "category": "movie"
   },
@@ -209,7 +209,7 @@
   },
     {
     "name": "warner",
-    "url": "https://hls.iptv-th.workers.dev/live/4004/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4004/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",
     "category": "movie"
   },
@@ -314,7 +314,7 @@
   },
    {
     "name": "TrueSport1",
-    "url": "https://sportpoxy.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8",
     "referer": "http://dootvz.ddns.net:25461/live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -322,7 +322,7 @@
 
     {
     "name": "TrueSport2",
-    "url": "https://sport2porxy.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8",
      "referer": "http://dootvz.ddns.net:25461/live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -349,7 +349,7 @@
 
  {
     "name": "TrueSport1 สำรอง",
-    "url": "https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
     "referer": "https://hls.iptv-th.workers.dev/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -357,7 +357,7 @@
 
     {
     "name": "TrueSport2 สำรอง",
-    "url": "https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8",
      "referer": "https://hls.iptv-th.workers.dev/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -367,7 +367,7 @@
 
    {
     "name": "TrueSport3 สำรอง",
-    "url": "https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8",
     "referer": "https://hls.iptv-th.workers.dev/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -376,7 +376,7 @@
 
     {
     "name": "TrueSport7 สำรอง",
-    "url": "https://hls.iptv-th.workers.dev/live/1139/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1139/playlist.m3u8",
      "referer": "https://hls.iptv-th.workers.dev/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -617,32 +617,32 @@
  
      {
     "name": "history",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/4047/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4047/playlist.m3u8",
     "logo": "https://images.seeklogo.com/logo-png/37/1/history-logo-png_seeklogo-373581.png",
     "category": "documentary"
   },
       {
     "name": "discovery",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/90.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/90.m3u8",
     "logo": "https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg",
     "category": "documentary"
   },
       {
     "name": "samrujlok",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/2648/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/2648/playlist.m3u8",
     "logo": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png",
     "category": "documentary"
   },
 
       {
     "name": "Xzyte",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/129.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/129.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",
     "category": "documentary"
   },
       {
     "name": "MySci ",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/4024/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4024/playlist.m3u8",
     "logo": "https://i.ytimg.com/vi/PWBB9gpgJi4/maxresdefault.jpg",
     "category": "documentary"
   },
@@ -650,7 +650,7 @@
 
 { 
   "name": "ของดีไทย", 
-  "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/4023/playlist.m3u8", 
+  "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4023/playlist.m3u8", 
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3s3ODnFn6elYwKbJ1DA2q8C_JFBD7ziO0dnbyRvoGqw&s=10", 
   "category": "documentary",
   "open_with": "documentary" 
@@ -658,7 +658,7 @@
 
 { 
   "name": " TCL", 
-  "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/4028/playlist.m3u8", 
+  "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4028/playlist.m3u8", 
   "logo": "https://www.eurokidsindia.com/blog/wp-content/uploads/2024/02/science-exhibitions.jpg", 
   "category": "documentary",
   "open_with": "documentary" 
