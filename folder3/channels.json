@@ -164,7 +164,7 @@
  
  {
     "name": "CCM",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm",
     "logo": "https://www.mncvision.id/userfiles/image/channel/channel_22.png",
     "category": "movie"
   },
@@ -228,7 +228,7 @@
 
   {
     "name": "AXN",
-    "url": "https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8",
+    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
     "logo": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/AXN_%282015%29.jpg",
     "category": "movie"
   },
@@ -247,7 +247,7 @@
 
           {
     "name": "Hbo hits",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/4010/playlist.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits",
     "logo": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-409x409.png",
     "category": "movie"
 
@@ -256,7 +256,7 @@
 
       {
     "name": "Hbo sign",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://hls.iptv-th.workers.dev/live/4009/playlist.m3u8",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=aishbosignature",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png",
     "category": "movie"
   },
@@ -271,38 +271,38 @@
 
      {
     "name": "trueTHAIFILM",
-    "url": "https://hls.iptv-th.workers.dev/live/3998/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=trueseries",
     "logo": "https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
     "category": "movie"
   },
       {
     "name": "THAIFILMHD",
-    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd",
     "logo": "https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
     "category": "movie"
   },
       {
     "name": "True series",
-    "url": "https://hls.iptv-th.workers.dev/live/3996/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=trueseries",
     "logo": "https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
     "category": "movie"
   },
         {
           "name": "True Film Asia",
-           "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia",
+           "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia",
           "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",
   "category": "movie"
         },
         {
           "name": "True Movie Hits",
-          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits",
+          "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits",
           "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",
   "category": "movie"
         },
  
       {
     "name": "Cinimax",
-    "url": "https://hls.iptv-th.workers.dev/live/4007/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/136.m3u88",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
     "category": "movie"
   },
@@ -421,7 +421,7 @@
   },
     {
     "name": "MONOMAX 2",
-    "url": "https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8",
+    "url": "https://dootvz.ddns.net:25463/live/skycos3/aa2233/228613.m3u8",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
@@ -482,7 +482,7 @@
   },
         {
     "name": "golf",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/GOLF",
+    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/41.m3u8",
     "logo": "https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg",
     "category": "sport"
   },
@@ -506,13 +506,13 @@
   },
      {
     "name": "spotv1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://139.99.61.175:25461/M9005/6825/149",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/19091.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/3840px-SPOTV_logo.svg.png",
     "category": "sport"
   },
       {
     "name": "spotv2",
-    "url": "https://hls.iptv-th.workers.dev/live/1123/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://103.114.203.129:8080//live/toom/12345/46765.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/3840px-SPOTV_logo.svg.png",
     "category": "sport"
   },
@@ -595,19 +595,19 @@
  
       {
     "name": "BOOM",
-    "url": "https://hls.iptv-th.workers.dev/live/4021/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/70.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/250px-Boomerang_tv_logo.png",
     "category": "kids"
   },
       {
     "name": "Cartoon-Network",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8",
     "logo": "https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png",
     "category": "kids"
   },
        {
     "name": "Dream World",
-    "url": "https://hls.iptv-th.workers.dev/live/4020/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8",
     "logo": "https://f.ptcdn.info/621/051/000/or0grkyar15AgQGj5ZY-o.png",
     "category": "kids"
   },
@@ -627,7 +627,7 @@
   },
       {
     "name": "samrujlok",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/2648/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/116.m3u8",
     "logo": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png",
     "category": "documentary"
   },
@@ -640,7 +640,7 @@
   },
       {
     "name": "MySci ",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4024/playlist.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/100.m3u8",
     "logo": "https://i.ytimg.com/vi/PWBB9gpgJi4/maxresdefault.jpg",
     "category": "documentary"
   },
@@ -648,7 +648,7 @@
 
 { 
   "name": "ของดีไทย", 
-  "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4023/playlist.m3u8", 
+  "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/114.m3u8", 
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3s3ODnFn6elYwKbJ1DA2q8C_JFBD7ziO0dnbyRvoGqw&s=10", 
   "category": "documentary",
   "open_with": "documentary" 
@@ -656,7 +656,7 @@
 
 { 
   "name": " TCL", 
-  "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/4028/playlist.m3u8", 
+  "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://103.114.203.129:8080//live/toom/12345/69.m3u8", 
   "logo": "https://www.eurokidsindia.com/blog/wp-content/uploads/2024/02/science-exhibitions.jpg", 
   "category": "documentary",
   "open_with": "documentary" 
