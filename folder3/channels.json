@@ -322,14 +322,14 @@
   },
    {
     "name": "TrueSport1",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/server1-sport-tsp1.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
     "referer": "http://v3tv.live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
     {
     "name": "TrueSport1 เทสๆ1",
-    "url": "https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/server1-sport-tsp1.m3u8",
+    "url": "https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
     "referer": "http://v3tv.live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -344,14 +344,14 @@
 
     {
     "name": "TrueSport2",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8",
      "referer": "http://dootvz.ddns.net:25461/live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
      {
     "name": "TrueSport2 เทสๆ",
-    "url": "https://sport2porxy.istyledode.workers.dev/play?url=https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/server1-sport-tsp2.m3u8",
+    "url": "https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8",
      "referer": "http://dootvz.ddns.net:25461/live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -359,7 +359,7 @@
 
    {
     "name": "TrueSport3",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23075.m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8",
     "referer": "https://warpdooball.net/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -381,6 +381,12 @@
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
+     {
+    "name": "Bein1 สำรอง",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/3648/playlist.m3u8",
+    "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
+    "category": "sport"
+  },
 
     {
     "name": "Bein2",
@@ -388,9 +394,23 @@
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
+
+    {
+    "name": "Bein2 สำรอง",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/3647/playlist.m3u8",
+    "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
+    "category": "sport"
+  },
      {
     "name": "Bein3",
     "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=bein3",
+    "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
+    "category": "sport"
+  },
+
+      {
+    "name": "Bein3 สำรอง",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/3646/playlist.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1597047716214804480/KNr1gIpJ_400x400.png",
     "category": "sport"
   },
