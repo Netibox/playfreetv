@@ -329,14 +329,14 @@
   },
     {
     "name": "TrueSport1 เทสๆ1",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/server1-sport-tsp1.m3u8",
+    "url": "https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/server1-sport-tsp1.m3u8",
     "referer": "http://v3tv.live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
      {
     "name": "TrueSport1 เทสๆ2",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://tspporxy.istyledode.workers.dev/play?id=2820",
+    "url": "https://tspporxy.istyledode.workers.dev/play?id=2820",
     "referer": "http://v3tv.live/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
