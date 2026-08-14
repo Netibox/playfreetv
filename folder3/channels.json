@@ -336,7 +336,7 @@
   },
      {
     "name": "TrueSport1 เทสๆ2",
-    "url": "https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
     "referer": "https://cdn-edge-sg3.retromovie.tv/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -344,7 +344,7 @@
 
     {
     "name": "TrueSport2",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8",
      "referer": "https://cdn-edge-sg3.retromovie.tv/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -359,14 +359,14 @@
 
    {
     "name": "TrueSport3",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8",
     "referer": "https://cdn-edge-sg3.retromovie.tv/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
     {
     "name": "TrueSport5",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=truesport5",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://movieproxy.tawatchai250958.workers.dev/watch?id=truesport5",
     "referer": "https://github.com/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
