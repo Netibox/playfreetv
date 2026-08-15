@@ -322,13 +322,13 @@
   },
     {
     "name": "iplay",
-    "url": "https://fernntv.dpdns.org/api/iptv-proxy?url=http://43.229.132.25/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8",
+    "url": "https://sportporxy3.istyledode.workers.dev/play?url=http://43.229.132.25/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8",
     "logo": "https://media.pocketgamer.biz/images/3709/43185/iplay-new-logo_s320.jpg",
     "category": "movie"
   },
    {
     "name": "TrueSport1",
-    "url": "https://sportporxy3.istyledode.workers.dev/play?url=https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8",
     "referer": "https://cdn-edge-sg3.retromovie.tv/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
