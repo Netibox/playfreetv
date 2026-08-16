@@ -333,9 +333,22 @@
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
-
+   {
+    "name": "TrueSport1 สำรองเทส",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP1.m3u8",
+    "referer": "https://github.com/",
+    "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+    "category": "sport"
+  },
 
     {
+    "name": "TrueSport2 สำรอง",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP2.m3u8",
+     "referer": "https://github.com/",
+    "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+    "category": "sport"
+  },
+     {
     "name": "TrueSport2",
     "url": "https://iptv.tawatchai250958.workers.dev/?url=https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8",
      "referer": "https://cdn-edge-sg3.retromovie.tv/",
@@ -350,6 +363,14 @@
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
+   {
+    "name": "TrueSport3 สำรอง",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP3.m3u8",
+    "referer": "https://github.com/",
+    "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+    "category": "sport"
+  },
+ 
     {
     "name": "TrueSport4",
     "url": "https://iptv.tawatchai250958.workers.dev/?url=https://hls.iptv-th.workers.dev/live/1137/playlist.m3u8",
@@ -421,7 +442,7 @@
   },
       {
     "name": "MONOMAX 1",
-    "url": "http://45.154.24.214.nip.io/proxy.php?url=https://cdn-edge-sg3.retromovie.tv/play/3955605f9b8b5c548beaf80f2df4d2c0/c892074c11bd84f4484ed14c1cacf4b9/1786461970/playlist.m3u8",
+    "url": "https://proxy.istyledode.workers.dev/play?url=https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/Monomax1.m3u8",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
