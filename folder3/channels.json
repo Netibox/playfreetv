@@ -162,7 +162,12 @@
     "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
     "category": "movie"
   },
-
+     {
+    "name": "HBO TH4",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=2033811&extension=ts",
+    "logo": "https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",
+    "category": "movie"
+  },
  
      {
     "name": "Asian more",
@@ -341,8 +346,8 @@
   },
    {
     "name": "TrueSport1 สำรองเทส",
-    "url": "http://vd257.proxy-cdn.ag:2005/live/play/WjJOaE0wWTRXbEpVS3pSNlZVSldNMUZOYlRoS0syZzNRMmhtY205dE5YcHdXVXd3TW1SRVprbFVhejA9/115531",
-    "referer": "http://45.139.122.199/",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115532&extension=ts",
+    "referer": "http://tbtv.me/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
@@ -371,7 +376,7 @@
   },
    {
     "name": "TrueSport3 สำรอง",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23075.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115533&extension=ts",
     "referer": "http://digi.dtv3/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -462,7 +467,7 @@
   },
       {
     "name": "MONOMAX 1",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130732",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660493&extension=ts",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
@@ -474,7 +479,7 @@
   },
     {
     "name": "MONOMAX 2",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8",
+    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660492&extension=ts",
     "logo": "https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg",
     "category": "sport"
   },
