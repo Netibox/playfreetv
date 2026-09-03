@@ -342,7 +342,7 @@
 
    {
     "name": "TrueSport1 สำรอง",
-    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd1",
+    "url": "https://edge-1.m-fixer.net:8092/stream/inw/truesport1/master.m3u8",
     "referer": "https://cdn-edge-sg3.retromovie.tv/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -357,7 +357,7 @@
 
     {
     "name": "TrueSport2 สำรอง",
-    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd2",
+    "url": "https://edge-1.m-fixer.net:8092/stream/inw/truesport2/master.m3u8",
      "referer": "http://45.139.122.199/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -373,14 +373,14 @@
   },
    {
     "name": "TrueSport3 สำรอง",
-    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd3",
+    "url": "https://edge-1.m-fixer.net:8092/stream/inw/truesport3/master.m3u8",
     "referer": "https://cdn-edge-sg3.retromovie.tv/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
   },
     {
     "name": "TrueSport4",
-    "url": "https://hls.iptv-th.workers.dev/live/1137/playlist.m3u8",
+    "url": "https://edge-1.m-fixer.net:8092/stream/inw/truesport4/master.m3u8",
     "referer": "https://cdn-edge-sg3.retromovie.tv/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -395,7 +395,7 @@
   },
      {
     "name": "TrueSport5 สำรอง",
-    "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd5",
+    "url": "https://edge-1.m-fixer.net:8092/stream/inw/truesport5/master.m3u8",
     "referer": "https://github.com/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
@@ -410,7 +410,7 @@
   },
     {
     "name": "TrueSport7 สำรอง เทสของproxyphp",
-    "url": "https://iptv.tawatchai250958.workers.dev/?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/23077.m3u8",
+    "url": "https://edge-1.m-fixer.net:8092/stream/inw/truesport7/master.m3u8",
      "referer": "http://digi.dtv3/",
     "logo": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
     "category": "sport"
